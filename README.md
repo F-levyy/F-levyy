@@ -1,16 +1,13 @@
-## Hi there 👋
+<!--Banner-->
+![meu banner](https://i.pinimg.com/736x/11/50/87/115087b77c0be7b2816d72fdc912b7bb.jpg)
 
-<!--
-**F-levyy/F-levyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://slackmojis.com/emojis/143785-vietnam-flashbacks/download" width="50"/> e o caba vai endoidar é?
 
-Here are some ideas to get you started:
+<!--Start Intro-->               
+<p align="left">Sou um estudante da DRM cursando informática,atualmente aprendendo o básico da programação. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+meus gostos:
+- pokemon
+- the binding of issac
+- ultrakill
+- gachiakuta
